@@ -2,7 +2,7 @@
 
 🪪 Estou cursando Técnico em Informática Integrado ao Ensino Médio no Instituto Federal de Educação, Ciência e Tecnologia de Rondônia
 
-🌦️ Sou Bolsista de Iniciação Científica Júnior do CNPq no projeto de pesquisa de coleta e análise de dados lcimáticos
+🌦️ Sou Bolsista de Iniciação Científica Júnior do CNPq no projeto de pesquisa de coleta e análise de dados climáticos
 
 💻 Atualmente aprendendo C#, Phyton e C++
 
